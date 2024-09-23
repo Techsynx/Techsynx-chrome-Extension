@@ -67,5 +67,5 @@ This project is licensed under the MIT License. For more details, please refer t
 # Support
 For any queries, issues, or support, feel free to reach out to the support team:
 
-Email: support@techsynx.com
+Email: techsynxx@gmail.com
 Documentation: Techsynx Docs
